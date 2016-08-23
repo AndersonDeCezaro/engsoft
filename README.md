@@ -1,6 +1,2 @@
-echo "# engsoft" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/AndersonDeCezaro/engsoft.git
-git push -u origin master
+sistema comercial para ser implantado em empresas que prestam assistencia tecnica 
+e desenvolver um controle para ordens de serviços
